@@ -1,0 +1,14 @@
+# Local tooling & scratch
+.claude/
+_demo/
+_cap/
+
+# Release artifact - distributed via GitHub Releases, not committed
+*.apk
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
